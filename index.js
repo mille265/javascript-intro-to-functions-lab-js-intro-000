@@ -20,7 +20,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (logWhisper) { return ("I can\'t hear you!")
+  if (Whisper) { return ("I can\'t hear you!")
 
   }
 }
@@ -30,3 +30,5 @@ function sayHiToGrandma(string) {
   if (logShout) { return ("YES INDEED!")
   }
 }
+
+function
