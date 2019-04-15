@@ -24,3 +24,9 @@ function sayHiToGrandma(logWhisper) {
 
 
 }
+
+function sayHiToGrandma(logShout) {
+  return ("YES INDEED!")
+  
+  
+}
