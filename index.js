@@ -16,10 +16,11 @@ function logWhisper(string) {
 
 }
 
-function sayHiToGrandma(whisper) {
+function sayHiToGrandma(logWhisper) {
   return ("I can\'t hear you!")
 
 }
+
 
 function sayHiToGrandma(shout) {
   return ("YES INDEED!")
