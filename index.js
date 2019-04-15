@@ -24,10 +24,3 @@ function sayHiToGrandma(string) {
 
   }
 }
-
-function ILoveYou\,Grandma(string) {
-  if (string === logShout) { return ("YES INDEED!")
-
-  }
-
-}
