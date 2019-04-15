@@ -4,6 +4,6 @@ function shout(string) {
 
 }
 function whisper(string) {
-  return string.toLowercase()
+  return string.toLowerCase()
 
 }
