@@ -24,3 +24,9 @@ function sayHiToGrandma(string) {
 
   }
 }
+
+
+function sayHiToGrandma(string) {
+  if (logShout) { return ("YES INDEED!")
+  }
+}
